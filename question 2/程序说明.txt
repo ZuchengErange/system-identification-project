@@ -1,0 +1,3 @@
+对于广义最小二乘法适用对象，运行idex3_guangyi文件，对于增广最小二乘法适用对象，运行idex3_zengguang文件
+之后便可以按照需要执行m文件即可
+ps:所有文件均为matlab 2019b版 simulink提供2017b版文件

@@ -1,0 +1,2 @@
+首先运行idex_hzc文件，之后便可以按照需要执行m文件即可（第一题的第四问不需要运行Simulink文件）
+ps:所有文件均为matlab 2019b版 simulink提供2017b版文件
